@@ -1,0 +1,100 @@
+{
+  "title": "Contents",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Sample PDF Document",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 1",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Template",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "How to compile a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ﬁle to a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": ".pdf",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ﬁle",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "How to write a document",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "L",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "TEX and pdfL",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "TEX capabilities",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Large",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "LARGE",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "huge",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Huge",
+      "page": 10
+    }
+  ]
+}
